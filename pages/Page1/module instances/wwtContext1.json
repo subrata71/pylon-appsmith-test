@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "67a5dda0a9db86506e80912e_3694c4ab-0d93-45ab-8c7e-ec60145cfa53",
+  "id": "Page1_wwtContext1",
+  "moduleUUID": "74c7c69e-bf1c-48f7-ae1d-e4d558c0cdc5",
+  "packageUUID": "e22cb8e1-0e47-40b8-adb2-24802bb6ae17",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "initializeAll": "[]"
+    },
+    "moduleInputs": {
+      "naoblafcfz": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "naoblafcfz",
+        "label": "initializeAll",
+        "propertyName": "inputs.initializeAll"
+      }
+    },
+    "name": "wwtContext1",
+    "pageId": "Page1"
+  }
+}
